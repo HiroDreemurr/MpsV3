@@ -1,0 +1,63 @@
+body {
+    marging: 0;
+    background-color:#211a4e;
+}
+#background{
+    background:url("./Fotos/Gerais/9877724-pixel-art-paisagem-floresta-em-montanhas-ao-por-do-sol-fundo-minimalista-8-bits-vetor.jpg");
+    height: 95%;
+    width: 100%
+}
+#capa {
+background-size: contain;
+width: 100%;
+height: 100%;
+text-align: center;
+padding-top: 20px; 
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 50;
+    padding-top: 20px;
+    text-shadow: 10px;
+    color:#211a4e;
+}
+p {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25;
+}
+h2 {
+    font-family:sans-serif;
+    color: #be1767;
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 30;
+}
+#aquecimento {
+    margin-left:calc(50% - 260px)
+}
+#importancia {
+    width: 50%;
+    height: 200px;
+    color: #ffff
+}
+#poluição {
+    margin-left:calc(100% - 260px);
+}
+#video_manual {
+    margin-right:calc(30% - 100px)
+}
+h3 {
+    font-size: 30;
+    text-decoration-line: underline;
+}
+#continuação {
+    text-align:center;
+    font-family: sans-serif;
+    color:white;
+    font-weight: 100;
+    padding-top: 100;
+    font-size: 25;
+}
